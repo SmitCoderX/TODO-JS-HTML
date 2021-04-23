@@ -1,3 +1,5 @@
+**Website live - https://todolistbysmit.netlify.app**
+
 # TODO-JS-HTML
 Todo list website  made with simple JavaScript and Html storing the data in localStroage 
 
